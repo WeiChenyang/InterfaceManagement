@@ -195,7 +195,7 @@
             <artifactId>cnbm-client-sdk</artifactId>
             <version>1.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/target/cnbm-client-sdk-1.0-SNAPSHOT.jar</systemPath>
+            <systemPath>${project.basedir}/libs/cnbm-client-sdk-1.0-SNAPSHOT.jar</systemPath>
         </dependency>
     </dependencies>
 
